@@ -4,10 +4,10 @@ Project is an analysis of the crime data from the Jacksonville Sheriff's office.
 
 ### Installation
 
-In order to run this program, you will need to download the latest version of Tableau. Application can be downloaded from <a href="https://public.tableau.com/en-us/s/">here</a>. 
+In order to run this program, you will need to download the latest version of Tableau. <br>
+Application can be downloaded from <a href="https://public.tableau.com/en-us/s/">here</a>. 
 
-### Application
-The current file can also be view from this link: <a href = "https://public.tableau.com/profile/jaycarr#!/vizhome/JSO/CompleteStory">Crime Data</a>
+The current file can also be viewed <a href = "https://public.tableau.com/profile/jaycarr#!/vizhome/JSO/CompleteStory">here</a>
 
 ### Question
 The goal of this project is to explore the crime data in Jacksonville, Florida in order to dertmine the areas with the greatest amount of crime as well as to learn what is the most common crimes. The data obtained will assist in answering the question of which areas are of utmost concern in Jacksonville for police officers to focus their efforts on.
